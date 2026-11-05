@@ -1,3 +1,5 @@
+<img src="assets/profile-banner.svg" width="100%" alt="Gustavo.IT — Gustavo Richardson. Suporte, infraestrutura e AWS." />
+
 # Gustavo Richardson
 
 **Suporte de TI · Redes e infraestrutura · AWS**
