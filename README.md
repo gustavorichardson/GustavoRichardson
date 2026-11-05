@@ -9,13 +9,13 @@
   </p>
 </div>
 
-## Sobre mim
+<h2 align="center">Sobre mim</h2>
 
 Sou de Cabo de Santo Agostinho, Pernambuco, e curso Análise e Desenvolvimento de Sistemas. Trabalhei por dois anos na Amazon, em operações e Problem Solve, investigando problemas, melhorando processos e treinando colegas.
 
 Meu objetivo é atuar em Suporte Técnico Júnior, Help Desk ou Service Desk N1, com evolução para infraestrutura e suporte cloud. Aqui compartilho meus estudos e projetos em TI.
 
-## Como resolvo problemas
+<h2 align="center">Como resolvo problemas</h2>
 
 Na Amazon REC1/3, como Assistente de Operações / Problem Solve (2024–2026):
 
@@ -25,7 +25,7 @@ Na Amazon REC1/3, como Assistente de Operações / Problem Solve (2024–2026):
 | Tempo gasto no registro manual de dados | Automatizei o preenchimento com Excel, eliminando retrabalho. | De **90 para 12 minutos**, redução de aproximadamente **87%**. |
 | Erros de registro na operação | Treinei **2 colaboradores** em troubleshooting e boas práticas. | Erros de registro zerados e produtividade acima da meta. |
 
-## Estudos e ferramentas
+<h2 align="center">Estudos e ferramentas</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg" width="40" height="40" alt="AWS" title="AWS" />&nbsp;&nbsp;
@@ -44,7 +44,7 @@ Na Amazon REC1/3, como Assistente de Operações / Problem Solve (2024–2026):
 | **Ferramentas** | Excel na melhoria de processos; Git, GitHub e VS Code nos estudos e projetos. |
 | **Automação e IA** | Noções de Python e SQL, fundamentos de Docker e uso de IA generativa como apoio aos projetos. |
 
-## Formação e trilha de aprendizado
+<h2 align="center">Formação e trilha de aprendizado</h2>
 
 - **ADS — Estácio:** em andamento, com conclusão prevista para junho de 2028.
 - **AWS re/Start — Escola da Nuvem (300h):** aguardando emissão do certificado.
@@ -53,7 +53,7 @@ Na Amazon REC1/3, como Assistente de Operações / Problem Solve (2024–2026):
 
 Minha trilha: **suporte e redes → sistemas e infraestrutura → AWS → automação**. Quero aplicar essa base em projetos e aprofundar provisionamento e implantação com CloudFormation e Elastic Beanstalk.
 
-## Certificações que pretendo buscar
+<h2 align="center">Certificações que pretendo buscar</h2>
 
 | <div align="center">Nuvem</div> | <div align="center">Objetivos</div> |
 | --- | --- |
@@ -63,7 +63,7 @@ Minha trilha: **suporte e redes → sistemas e infraestrutura → AWS → automa
 
 Essas certificações são metas de estudo, ainda não obtidas.
 
-## Projetos
+<h2 align="center">Projetos</h2>
 
 Desenvolvo estes projetos com apoio de IA generativa. Uso esse processo para estudar as soluções e entender seu funcionamento.
 
