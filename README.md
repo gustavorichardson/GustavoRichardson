@@ -4,7 +4,12 @@
 
 **Suporte de TI · Redes e infraestrutura · AWS**
 
-[LinkedIn](https://www.linkedin.com/in/gustavo-richardson/) · [WhatsApp](https://wa.me/5581983052508) · [E-mail](mailto:gustavo.richardson@outlook.com) · [Portfólio](https://gustavorichardson.github.io/)
+<p>
+  <a href="https://www.linkedin.com/in/gustavo-richardson/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://wa.me/5581983052508"><img src="https://img.shields.io/badge/WhatsApp-168345?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:gustavo.richardson@outlook.com"><img src="https://img.shields.io/badge/E--mail-5358A5?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="E-mail" /></a>
+  <a href="https://gustavorichardson.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-155E75?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Portfólio" /></a>
+</p>
 
 ## Sobre mim
 
@@ -23,6 +28,15 @@ Na Amazon REC1/3, como Assistente de Operações / Problem Solve (2024–2026):
 | Erros de registro na operação | Treinei **2 colaboradores** em troubleshooting e boas práticas. | Erros de registro zerados e produtividade acima da meta. |
 
 ## Estudos e ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg" width="40" height="40" alt="AWS" title="AWS" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" width="40" height="40" alt="Docker — fundamentos" title="Docker — fundamentos" />&nbsp;&nbsp;
+  <img src="assets/generative-ai.svg" width="40" height="40" alt="IA generativa — apoio aos projetos" title="IA generativa — apoio aos projetos" />
+</p>
 
 | Área | Meu contato com ela |
 | --- | --- |
