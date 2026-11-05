@@ -1,15 +1,13 @@
-<img src="assets/profile-banner.svg" width="100%" alt="Gustavo.IT — Gustavo Richardson. Suporte, infraestrutura e AWS." />
-
-# Gustavo Richardson
-
-**Suporte de TI · Redes e infraestrutura · AWS**
-
-<p>
+<div align="center">
+  <img src="assets/profile-banner.png" width="100%" alt="Gustavo Richardson — Support that solves problems. Suporte técnico, resolução de problemas e fundamentos de cloud." />
+  <p><strong>Suporte de TI · Redes e infraestrutura · AWS</strong></p>
+  <p>
   <a href="https://www.linkedin.com/in/gustavo-richardson/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://wa.me/5581983052508"><img src="https://img.shields.io/badge/WhatsApp-168345?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:gustavo.richardson@outlook.com"><img src="https://img.shields.io/badge/E--mail-5358A5?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white" alt="E-mail" /></a>
   <a href="https://gustavorichardson.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-155E75?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Portfólio" /></a>
-</p>
+  </p>
+</div>
 
 ## Sobre mim
 
