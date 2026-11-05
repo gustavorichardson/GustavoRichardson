@@ -72,4 +72,4 @@ Desenvolvo estes projetos com apoio de IA generativa. Uso esse processo para est
 | **AWS Simulados** | Plataforma para estudar para o Cloud Practitioner, com simulados, correção no servidor e geração de questões com IA. | Em ambiente local; deploy AWS planejado. |
 | **AI Job Assistant** | Automação da busca e triagem de vagas com IA local e Ollama. | Em desenvolvimento. |
 
-[Ver meu portfólio](https://gustavorichardson.github.io/) · [Explorar meus repositórios](https://github.com/gustavorichardson?tab=repositories)
+[Explorar meus repositórios](https://github.com/gustavorichardson?tab=repositories)
